@@ -6,5 +6,3 @@ Pour le lancer, il faut avoir au préalable installé python3, si ce n'est pas l
 Il faut également la librairie Pygame, pour l'installer -> https://www.pygame.org/wiki/GettingStarted#Pygame%20Installation
 
 Exécutez le fichier puissance4_windows.py ou puissance4_unix.py selon votre OS
-
-Po
